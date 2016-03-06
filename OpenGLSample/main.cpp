@@ -4,9 +4,10 @@
 
 #define GLFW_INCLUDE_GLCOREARB
 #include <GLFW/glfw3.h>
-#include <stdio.h>
 #include <oglplus/all.hpp>
 #include <oglplus/shapes/sphere.hpp>
+
+#include <stdio.h>
 
 class Example
 {
